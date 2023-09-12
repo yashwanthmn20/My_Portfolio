@@ -1,0 +1,20 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px 200px 200px;
+    gap: 20px;
+}
+
+.first{
+    grid-column: span 3;
+}
+
+.last{
+    grid-column: span 3;
+}
+
+.card{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}

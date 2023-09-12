@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+img{
+    position: relative;
+    height: 230px;
+    width: 210px;
+    float: left;
+    border-radius: 40%;
+}
+
+h1{
+    margin: 0px;
+}
+
+div.header_1{
+    float: right;
+    width: 85%;
+}
+h1{    
+    text-align:center;
+    color: white;
+    background-color: blueviolet;
+}
+
+p#summary_para{
+    display: block;
+    clear: right;
+    text-align: start;
+    color: white;
+    background-color: blueviolet;
+    margin-top: 0px;
+    
+}
+
+div.body_1{
+    clear: both;
+}

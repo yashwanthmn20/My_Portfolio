@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+img[alt="Image of Yashu"]{
+    position: relative;
+    height: 230px;
+    width: 210px;
+    border-radius: 40%;
+}
+h1{
+    position: absolute;
+    color:blueviolet;
+    background-color: aquamarine;
+    left: 620px;
+    top: 10px;
+}
+
+p#summary_para{
+    position: absolute;
+    text-align: start;
+    left: 270px;
+    top: 70px;
+}
